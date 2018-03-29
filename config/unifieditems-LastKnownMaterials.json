@@ -1,0 +1,28 @@
+{
+  "materials": [
+    "Coal",
+    "Iron",
+    "Gold",
+    "Diamond",
+    "Copper",
+    "Tin",
+    "Bronze",
+    "Silver",
+    "Lead",
+    "Nickel",
+    "Invar",
+    "Electrum",
+    "Obsidian",
+    "Platinum",
+    "Mithril",
+    "Aluminum",
+    "Uranium",
+    "Steel",
+    "Iridium",
+    "Ruby",
+    "Sapphire",
+    "Brass",
+    "Zinc",
+    "Constantan"
+  ]
+}
