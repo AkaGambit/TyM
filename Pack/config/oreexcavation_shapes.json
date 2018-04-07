@@ -12,30 +12,6 @@
         "OOOOO"
       ]
     },
-	{
-      "name": "2x2",
-      "depth": -1,
-      "reticle": 12,
-      "mask": [
-        "OOOOO",
-        "OOOOO",
-        "OXXOO",
-        "OXXOO",
-        "OOOOO"
-      ]
-    },
-	{
-      "name": "2x3",
-      "depth": -1,
-      "reticle": 12,
-      "mask": [
-        "OOOOO",
-        "OOOOO",
-        "OXXXO",
-        "OXXXO",
-        "OOOOO"
-      ]
-    },
     {
       "name": "3x3",
       "depth": -1,
