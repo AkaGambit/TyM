@@ -1,0 +1,26 @@
+{
+  "vanish": false,
+  "invulnerable": false,
+  "jailOnNextLogin": false,
+  "fly": false,
+  "isFrozen": false,
+  "lastKnownName": "BrendanatorX",
+  "lastLocation": {
+    "world": "411e2ccd-d23f-4296-a565-84873c9bd249",
+    "rotx": 0.0,
+    "rotz": 0.0,
+    "roty": 0.0,
+    "x": 173.587043171077,
+    "y": 68.0,
+    "z": 416.9050608353551
+  },
+  "lastLogin": 1523363340987,
+  "lastLogout": 1523363488839,
+  "lastIP": "/218.215.125.106",
+  "firstJoin": 1523138518562,
+  "startedFirstJoin": false,
+  "warnings": [],
+  "mail": [],
+  "kitLastUsedTime": {},
+  "notes": []
+}
