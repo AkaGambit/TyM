@@ -1,3 +1,7 @@
+# Git Structure 
+The "TyM" folder is for the modpack itself.
+The "TyMs" folder is for the server.
+
 ## Updates
 Updates are listed below.
 
