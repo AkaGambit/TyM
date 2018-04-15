@@ -1,0 +1,26 @@
+{
+  "fly": false,
+  "invulnerable": false,
+  "kitLastUsedTime": {},
+  "jailOnNextLogin": false,
+  "vanish": false,
+  "notes": [],
+  "mail": [],
+  "warnings": [],
+  "lastKnownName": "Aka_Gambit",
+  "lastLocation": {
+    "world": "411e2ccd-d23f-4296-a565-84873c9bd249",
+    "rotx": 0.0,
+    "rotz": 0.0,
+    "roty": 0.0,
+    "x": 167.4289262387448,
+    "y": 77.0,
+    "z": 423.07066825402813
+  },
+  "lastLogin": 1523457307916,
+  "lastLogout": 1523457453687,
+  "lastIP": "/127.0.0.1",
+  "firstJoin": 1523138518559,
+  "startedFirstJoin": false,
+  "isFrozen": false
+}
